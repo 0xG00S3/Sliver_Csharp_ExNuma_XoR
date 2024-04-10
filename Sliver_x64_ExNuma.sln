@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sliver_x64_ExNuma", "Sliver_x64_ExNuma\Sliver_x64_ExNuma.csproj", "{BE3D2173-D359-4477-B266-0A3A1400C8B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE3D2173-D359-4477-B266-0A3A1400C8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3D2173-D359-4477-B266-0A3A1400C8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3D2173-D359-4477-B266-0A3A1400C8B0}.Debug|x64.ActiveCfg = Debug|x64
+		{BE3D2173-D359-4477-B266-0A3A1400C8B0}.Debug|x64.Build.0 = Debug|x64
+		{BE3D2173-D359-4477-B266-0A3A1400C8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3D2173-D359-4477-B266-0A3A1400C8B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3D2173-D359-4477-B266-0A3A1400C8B0}.Release|x64.ActiveCfg = Release|x64
+		{BE3D2173-D359-4477-B266-0A3A1400C8B0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59A253FE-F198-4C72-A40E-63A30A759F48}
+	EndGlobalSection
+EndGlobal

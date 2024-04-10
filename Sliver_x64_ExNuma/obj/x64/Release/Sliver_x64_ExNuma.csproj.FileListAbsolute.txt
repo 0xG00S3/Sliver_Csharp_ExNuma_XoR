@@ -1,0 +1,7 @@
+C:\Users\getre\Dropbox (Personal)\0.0_Exploits\C#\ExNuma\ExNuma_Heuristic_Bypass\Sliver_x64_ExNuma\bin\x64\Release\honk.exe.config
+C:\Users\getre\Dropbox (Personal)\0.0_Exploits\C#\ExNuma\ExNuma_Heuristic_Bypass\Sliver_x64_ExNuma\bin\x64\Release\honk.exe
+C:\Users\getre\Dropbox (Personal)\0.0_Exploits\C#\ExNuma\ExNuma_Heuristic_Bypass\Sliver_x64_ExNuma\bin\x64\Release\honk.pdb
+C:\Users\getre\Dropbox (Personal)\0.0_Exploits\C#\ExNuma\ExNuma_Heuristic_Bypass\Sliver_x64_ExNuma\obj\x64\Release\Sliver_x64_ExNuma.csproj.AssemblyReference.cache
+C:\Users\getre\Dropbox (Personal)\0.0_Exploits\C#\ExNuma\ExNuma_Heuristic_Bypass\Sliver_x64_ExNuma\obj\x64\Release\Sliver_x64_ExNuma.csproj.CoreCompileInputs.cache
+C:\Users\getre\Dropbox (Personal)\0.0_Exploits\C#\ExNuma\ExNuma_Heuristic_Bypass\Sliver_x64_ExNuma\obj\x64\Release\honk.exe
+C:\Users\getre\Dropbox (Personal)\0.0_Exploits\C#\ExNuma\ExNuma_Heuristic_Bypass\Sliver_x64_ExNuma\obj\x64\Release\honk.pdb
